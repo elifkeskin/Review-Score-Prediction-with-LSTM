@@ -3,6 +3,10 @@
 A Python project that uses an LSTM (Long Short‑Term Memory) neural network to predict review scores based on textual comments.  
 The repository contains the model implementation, data preprocessing scripts, and utilities for training and inference.
 
+Dataset:https://huggingface.co/datasets/Yelp/yelp_review_full
+
+**NOTE**: Prediction scores have been redefined to be between 1 and 5.
+
 ## Features
 - End‑to‑end LSTM regression model
 - Data preprocessing and tokenization
@@ -38,3 +42,4 @@ LSTM_ile_Yorum_Puan_Tahmini/
 ├─ README.md               # Project documentation (this file)
 └─ LICENSE                 # License information
 ```
+
