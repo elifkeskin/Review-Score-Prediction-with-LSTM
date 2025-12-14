@@ -31,8 +31,13 @@ python predict_review.py <path_to_review_text_file>
 
 ## Project Structure
 LSTM_ile_Yorum_Puan_Tahmini/
+
 ├─ lstm_regression.py      # Model definition and training
+
 ├─ predict_review.py       # Inference script
+
 ├─ requirements.txt        # Python dependencies
+
 ├─ README.md               # Project documentation (this file)
+
 └─ LICENSE                 # License information
